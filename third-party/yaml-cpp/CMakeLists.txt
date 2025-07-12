@@ -1,8 +1,8 @@
 therock_subproject_fetch(therock-yaml-cpp-sources
   CMAKE_PROJECT
   # Originally mirrored from: https://github.com/jbeder/yaml-cpp/archive/refs/tags/0.8.0.tar.gz
-  URL https://rocm-third-party-deps.s3.us-east-2.amazonaws.com/yaml-cpp-0.8.0.tar.gz
-  URL_HASH SHA256=fbe74bbdcee21d656715688706da3c8becfd946d92cd44705cc6098bb23b3a16
+  URL /home/fanmi/workspace/OpenBLAS/yaml-cpp-0.8.0-patched.tar.gz
+  URL_HASH SHA256=55b91e014d2fee4f5d8774b0ee445c32369ba495e66db379bb395e3bcc637475
 )
 
 therock_cmake_subproject_declare(therock-yaml-cpp

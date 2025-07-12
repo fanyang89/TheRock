@@ -60,7 +60,7 @@
 	branch = develop
 [submodule "hipBLASLt"]
 	path = math-libs/BLAS/hipBLASLt
-	url = https://github.com/ROCm/hipBLASLt.git
+	url = https://github.com/fanyang89/hipBLASLt.git
 	branch = develop
 [submodule "hipCUB"]
 	path = math-libs/hipCUB
